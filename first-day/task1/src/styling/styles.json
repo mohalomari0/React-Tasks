@@ -1,0 +1,15 @@
+{
+    "con1": {
+      "backgroundColor": "lightblue",
+      "padding": "20px",
+      "textAlign": "center"
+    },
+    "con2": {
+      "backgroundColor": "orange",
+      "color": "red",
+      "fontSize": "18px",
+      "margin": "10px",
+      "padding": "20px"      
+    }
+  }
+  
